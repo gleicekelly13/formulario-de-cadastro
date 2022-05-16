@@ -1,0 +1,229 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 50px;
+    background-color: purple;
+}
+
+h2 {
+    margin-left: 25%;
+    margin-bottom: 20px;
+    color: #FFFF;
+}
+
+fieldset {
+    margin: 10px;
+    width: 70%;
+    height: 80%;
+    background-color: #eeee;
+    border: 2px solid rgba(22, 1, 18, 0.933)
+}
+
+legend {
+    border: 2px solid rgba(22, 1, 18, 0.933);
+    background-color: #eeee;
+    margin: 10px;
+    padding: 5px;
+    
+}
+
+.nome {
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.campo-nome{
+    margin-bottom: 10px;
+    margin-left: 22px;
+    height: 20px;
+    width: 25%;
+}
+
+.aniversario {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-aniversario-dia {
+    width: 5%;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+.campo-aniversario-mes {
+    width: 10%;
+    height: 20px;
+}
+
+.campo-aniversario-ano {
+    width: 8%;
+    height: 20px;
+}
+
+.registro-geral {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-rg {
+    width: 10%;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-left: 108px;
+}
+
+.pessoa-fisica {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-cpf {
+    width: 15%;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-left: 103px;
+}
+
+.endereco-1 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-rua {
+    margin-bottom: 10px;
+    margin-left: 110px;
+    height: 20px;
+    width: 30%;
+}
+
+.endereco-2 {
+    margin: 5px;
+    padding: 5px;
+}
+
+.campo-numero {
+    width: 10%;
+    height: 20px;
+}
+
+.endereco-3 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-bairro {
+    margin-bottom: 10px;
+    margin-left: 95px;
+    height: 20px;
+    width: 25%;
+}
+
+.endereco-4 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-estado {
+    width: 5%;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-left: 92px;
+}
+
+.endereco-5 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-cidade {
+    margin-bottom: 10px;
+    margin-left: 90px;
+    height: 20px;
+    width: 25%;
+}
+
+.endereco-6 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-cep1 {
+    margin-bottom: 10px;
+    margin-left: 107px;
+    height: 20px;
+    width: 8%;
+}
+
+.campo-cep2 {
+    margin-bottom: 10px;
+    height: 20px;
+    width: 5%;
+}
+
+.login-1 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-email {
+    margin-bottom: 10px;
+    margin-left: 100px;
+    height: 20px;
+    width: 25%;
+}
+
+.login-2 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-arquivo {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.login-3 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-login {
+    margin-bottom: 10px;
+    margin-left: 31px;
+    height: 20px;
+    width: 15%;
+}
+
+.login-4 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-senha {
+    margin-bottom: 10px;
+    margin-left: 100px;
+    height: 20px;
+    width: 15%;
+}
+
+.login-5 {
+    margin: 10px;
+    padding: 5px;
+}
+
+.campo-confirmar-senha {
+    margin-bottom: 10px;
+    margin-left: 22px;
+    height: 20px;
+    width: 15%;
+}
+
+button {
+    margin: 10px;
+    padding: 5px;
+}
